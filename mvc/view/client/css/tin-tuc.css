@@ -1,0 +1,112 @@
+.container{
+    max-width: 1140px;
+    font-family: Tahoma;
+}
+.gray-container{
+    background: #f4f2ed;
+    padding: 8px 12px;
+    margin: 20px 0px 10px;
+    border-radius: 5px;
+}
+.list-blogs.blog-main .blog-item .blog-item-meta .post-author {
+    color: #e4b95b;
+}
+.list-blogs.blog-main .blog-item .blog-item-name {
+    font-size: 24px;
+}
+.blog-item-name {
+    font-weight: 700;
+    position: relative;
+    font-size: 1em;
+    margin: 0;
+}
+.list-blogs.blog-main .blog-item .blog-item-meta {
+    display: flex;
+    font-size: 12px;
+    margin: 5px 0;
+}
+.list-blogs.blog-main .blog-item .blog-item-meta>div {
+    margin-right: 65px;
+}
+.list-blogs.blog-main .blog-item .blog-item-meta {
+    display: flex;
+    font-size: 12px;
+    margin: 5px 0;
+}
+.list-blogs.blog-main .blog-item:first-child {
+    border-top: none;
+    padding-top: 0px;
+}
+.list-blogs.blog-main .blog-item {
+    display: flex;
+}
+.list-blogs.blog-main .blog-item {
+    border-top: 1px dotted #cdcdcd;
+    margin-bottom: 15px;
+    padding-top: 15px;
+}
+.blog-item {
+    overflow: hidden;
+    margin-bottom: 15px;
+}
+a, .text-link {
+    color: #333;
+    text-decoration: none !important;
+    background: transparent;
+}
+.list-blogs.blog-main .blog-item .blog-item-info {
+    width: calc(100%/12*8);
+    padding-left: 30px;
+}
+.img-responsive{
+    min-width: 282px;
+}
+.logo img{
+    width: 131% !important;;
+}
+.footer{
+    position: relative !important;
+}
+.footer img {
+    padding-top: 20px;  
+    width: 155% !important;
+}
+.container-news{
+    max-width: 1140px !important;
+}
+.space-30{
+    margin-bottom: 30px !important;
+}
+.related-blog-title h2 {
+    text-transform: uppercase;
+    font-size: 20px;
+    display: inline-block;
+    border-bottom: 3px solid #2e3553;
+    margin-bottom: -1px;
+}
+.related-blog-title {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+.related-blogs .blog-item-name i.fa {
+    top: 1px;
+    font-size: 14px;
+    color: #555;
+}
+.related-blogs a {
+    color: #333;
+}
+.related-blogs a:hover {
+    color: #999;
+}
+a, .text-link {
+    color: #333;
+    text-decoration: none !important;
+    background: transparent;
+}
+.fa-caret-right:before {
+    content: ">";
+}
+.margin-top-15{
+    margin-top: 15px !important;
+}
